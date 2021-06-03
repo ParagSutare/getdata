@@ -1,0 +1,37 @@
+
+.container{
+    border: 2px solid red;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 700px;
+    background-color: rgb(233, 157, 104);
+    
+}
+h1{
+    text-align: center;
+}
+.form{
+    padding: 29px 150px;
+}
+input{
+    padding: 4px 13px;
+    margin: 12px;
+    border-radius: 5px;
+
+}
+.submit{
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    display: block;
+    padding: 5px 15px;
+    background-color: red;
+    color: white;
+    font-size: 17px;
+}
+
+/* result page */
+h3{
+    padding: 12px;
+}
